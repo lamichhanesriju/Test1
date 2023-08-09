@@ -14,7 +14,7 @@ public class AttributeGet {
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://omayo.blogspot.com/");
-		System.out.println("Hello Boss");
+		System.out.println("Hello Anil");
 		
 		 
 		 String textonButton = driver.findElement(By.xpath("/html/body/div[4]/div[2]/div[2]/div[2]/div[2]/div[2]/div[2]/div/div[4]/div[3]/div/aside/div[1]/div[2]/div[1]/div/form/table/tbody/tr/td[2]/input")).getAttribute("value");
