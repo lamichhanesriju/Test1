@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16030" started-at="2023-07-06T11:04:47Z" finished-at="2023-07-06T11:05:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16030" started-at="2023-07-06T11:04:47Z" finished-at="2023-07-06T11:05:03Z">
+      <class name="Test_NG.NewTest_4">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test_NG.NewTest_4@49993335]" name="setUp" is-config="true" duration-ms="2660" started-at="2023-07-06T11:04:47Z" finished-at="2023-07-06T11:04:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:Test_NG.NewTest_4@49993335]" name="login" duration-ms="4155" started-at="2023-07-06T11:04:49Z" finished-at="2023-07-06T11:04:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="closeAllWindow()[pri:0, instance:Test_NG.NewTest_4@49993335]" name="closeAllWindow" is-config="true" duration-ms="593" started-at="2023-07-06T11:04:54Z" finished-at="2023-07-06T11:04:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAllWindow -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test_NG.NewTest_4@49993335]" name="setUp" is-config="true" duration-ms="1807" started-at="2023-07-06T11:04:54Z" finished-at="2023-07-06T11:04:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyCreatepagetLink()[pri:1, instance:Test_NG.NewTest_4@49993335]" name="verifyCreatepagetLink" duration-ms="2272" started-at="2023-07-06T11:04:56Z" finished-at="2023-07-06T11:04:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreatepagetLink -->
+        <test-method status="PASS" signature="closeAllWindow()[pri:0, instance:Test_NG.NewTest_4@49993335]" name="closeAllWindow" is-config="true" duration-ms="615" started-at="2023-07-06T11:04:58Z" finished-at="2023-07-06T11:04:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAllWindow -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Test_NG.NewTest_4@49993335]" name="setUp" is-config="true" duration-ms="1861" started-at="2023-07-06T11:04:59Z" finished-at="2023-07-06T11:05:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="forgotAccount()[pri:2, instance:Test_NG.NewTest_4@49993335]" name="forgotAccount" duration-ms="1456" started-at="2023-07-06T11:05:01Z" finished-at="2023-07-06T11:05:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotAccount -->
+        <test-method status="PASS" signature="closeAllWindow()[pri:0, instance:Test_NG.NewTest_4@49993335]" name="closeAllWindow" is-config="true" duration-ms="593" started-at="2023-07-06T11:05:02Z" finished-at="2023-07-06T11:05:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAllWindow -->
+      </class> <!-- Test_NG.NewTest_4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
