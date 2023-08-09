@@ -17,7 +17,7 @@ public class AttributeGet {
 		
 		 
 		 String textonButton = driver.findElement(By.xpath("/html/body/div[4]/div[2]/div[2]/div[2]/div[2]/div[2]/div[2]/div/div[4]/div[3]/div/aside/div[1]/div[2]/div[1]/div/form/table/tbody/tr/td[2]/input")).getAttribute("value");
-	       System.out.println(Testing);
+	       
 	       
 	      driver.quit();
 	      
